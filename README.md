@@ -14,8 +14,8 @@ Implementation of an 8-byte Ring Buffer (Circular Buffer) using C.
 
 ## Build Command
 
-gcc -Wall -std=c99 ringbuffer.c -o ringbuffer
+gcc -Wall -std=c99 ringbuf.c -o ringbuf
 
 ## Run
 
-./ringbuffer
+./ringbuf
