@@ -12,10 +12,8 @@ Implementation of an 8-byte Ring Buffer (Circular Buffer) using C.
 - Count Tracking
 - Circular Wrap-around
 
-## Build Command
-
+## Compile Command
 gcc -Wall -std=c99 ringbuf.c -o ringbuf
 
 ## Run
-
 ./ringbuf
